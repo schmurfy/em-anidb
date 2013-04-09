@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anime id="24" restricted="false">
+<type>TV Series</type>
+<episodecount>26</episodecount>
+<startdate>2002-04-04</startdate>
+<enddate>2002-09-26</enddate>
+<titles>
+<title xml:lang="x-jat" type="main">.hack//SIGN</title>
+<title xml:lang="en" type="synonym">dot hack sign</title>
+<title xml:lang="ro" type="synonym">.hack//SIGN</title>
+<title xml:lang="bg" type="synonym">Хак//Симбол</title>
+<title xml:lang="x-jat" type="synonym">dot hack</title>
+<title xml:lang="x-jat" type="synonym">hack sign</title>
+<title xml:lang="x-jat" type="synonym">hack//SIGN</title>
+<title xml:lang="bg" type="short">Хак</title>
+<title xml:lang="x-jat" type="short">hack</title>
+<title xml:lang="x-jat" type="short">sign</title>
+<title xml:lang="x-jat" type="short">hackSIGN</title>
+<title xml:lang="ja" type="official">.hack//SIGN</title>
+<title xml:lang="de" type="official">.hack//SIGN</title>
+<title xml:lang="fr" type="official">.hack//SIGN</title>
+<title xml:lang="pt-BR" type="official">.hack//SIGN</title>
+</titles>
+<relatedanime>
+<anime id="222" type="Sequel">.hack//Liminality</anime>
+<anime id="7883" type="Same Setting">.hack//Quantum</anime>
+<anime id="447" type="Same Setting">.hack//Tasogare no Udewa Densetsu</anime>
+<anime id="4324" type="Same Setting">.hack//Roots</anime>
+<anime id="1135" type="Side Story">.hack//GIFT</anime>
+</relatedanime>
+<similaranime>
+<anime id="8692" approval="150" total="176">Sword Art Online</anime>
+<anime id="13" approval="4" total="11">Noir</anime>
+<anime id="1654" approval="2" total="12">Madlax</anime>
+<anime id="4966" approval="2" total="9">El Cazador de la Bruja</anime>
+<anime id="99" approval="1" total="8">Serial Experiments Lain</anime>
+</similaranime>
+<recommendations total="12">
+<recommendation type="For Fans" uid="495882">I personally love this anime, but I can`t help but feel that I only love it because of nostalgia factor alone. The soundtrack is the best soundtrack I`ve ever heard in an anime. Period. The anime as a whole is VERY original, but the story moves slow.</recommendation>
+<recommendation type="For Fans" uid="371670">This is a quality anime, certainly interesting for gamers but something kept me from giving it status "recommended/must see". I liked it a lot in the beginning, "The World" seemed very appealing, especially for me, a gamer familiar with RPG. However, the story progress is very and sometimes painfully slow. I truly enjoyed the soundtrack which is without doubt one of the best music background you can hear in anime. Sadly, the main character of Tsukasa is often irritating and indecision of other characters as well. As the story is gradually falling more and more into angst, I stopped to like it - I guess I just wanted some nice fantasy anime set in a virtual reality. Nevertheless, I rated quite high since Hack deserves it. You will either like it or not. ;)</recommendation>
+<recommendation type="Recommended" uid="299048">A rare digital plot that has no end to it :)</recommendation>
+<recommendation type="Recommended" uid="43034">If you have played some old-school MMORPGs and met new friends through them, you owe it to yourself to watch //SIGN.
+The Anime manages to capture some of the player interactions in those online worlds really well and touches on subjects like escapism, online vs. RL, anonymity and more. All the while a fantastic choral soundtrack accompanies the on-screen exposition.
+Watching this, I recalled many moments of me playing Lineage 2 and Guild Wars (1) and spending time with my friends online.
+
+The anime is definitely not for everyone though. The story is quite convoluted and there are quite a lot of uncertainties left at the end. If you`re looking for something more action orientated or fast paced, stay away from //SIGN or you`ll regret it. The exposition unravels reaaaaly slow and it`s very dialouge heavy. It focuses on the psychological and sociological aspects of MMOs, rather than their battles, quests or other gameplay elements.</recommendation>
+</recommendations>
+<url>http://www.beetrain.co.jp/contents/works/sign/</url>
+<creators>
+<name id="2479" type="Character Design">Ban Yukiko</name>
+<name id="691" type="Direction">Mashimo Kouichi</name>
+<name id="7851" type="Character Design">Oosawa Satoshi</name>
+<name id="2473" type="Character Design">Iwaoka Yuuko</name>
+<name id="2459" type="Character Design">Shiba Minako</name>
+<name id="3740" type="Series Composition">Itou Kazunori</name>
+<name id="749" type="Work">Bee Train</name>
+<name id="704" type="Music">Kajiura Yuki</name>
+</creators>
+<description>In the year 2005, a computer virus called Pluto Kiss completely shuts down and restricts the global Internet network. In 2007, after extensive rescinding of the network, an online network game (MMORPG) called The World is created and released.
+http://anidb.net/ch3547 [Tsukasa] suddenly awakens to find himself in The World, being able to feel, smell, touch, see and hear everything as if he was really there. He attempts to log out but fails to do so. Being unable to remember what has happened before he awoke, he wanders around aimlessly to find answers. While doing so, system moderators, the Scarlet Knights, suspect that he has been working with hackers, because of a tweaked cat-faced character he had been seen with. Tsukasa finds a magical item, that grants him the power to use the fearful Guardian that will protect him from any harm. To Tsukasa`s dismay it turns out that this guardian can not only easily defeat player characters in the game, but actually badly hurt players in the real world.
+On his search for truth, Tsukasa encounters the friendly and supportive http://anidb.net/ch3661 [Mimiru], the wise, fatherly http://anidb.net/ch9953 [Bear], the manipulative http://anidb.net/ch9957 [BT], the scrupulous http://anidb.net/ch9954 [Sora], the fun-loving http://anidb.net/ch9955 [Crim], and the mysterious http://anidb.net/ch9956 [Subaru], leader of the Scarlet Knights. When a mythical item called the Key of the Twilight turns out to be less of a myth, Tsukasa, questions whom he can really trust, and what the power to overcome The World`s system limitations actually entails...</description>
+<ratings>
+<permanent count="5514">5.07</permanent>
+<temporary count="5639">7.26</temporary>
+<review count="19">8.06</review>
+</ratings>
+<picture>11739.jpg</picture>
+<categories>
+<category id="508" parentid="7" hentai="false" weight="200">
+<name>Desert</name>
+<description>Setting with vast amounts of sand, merciless high temperatures, and very little water.</description>
+</category>
+<category id="497" parentid="317" hentai="false" weight="200">
+<name>Friendship</name>
+<description>The feeling of trust, kindness, and friendship between a group of high school students for example, is a central theme of this anime.</description>
+</category>
+<category id="323" parentid="317" hentai="false" weight="100">
+<name>Law and Order</name>
+<description>Where there is "wealth", there are criminals. It is up to the civil law enforcement, i.e. detectives, Police or Special Squads, to keep the lawless activities in the real world or in cyberspace under control.&#13;
+&#13;
+Note: Do not confuse this with Military presence. </description>
+</category>
+<category id="230" parentid="198" hentai="false" weight="100">
+<name>Love Polygon</name>
+<description>A love polygon refers to a romantic relationship involving n people. Although a love triangle is not limited to just heterosexual relationships, in anime, it usually deals with two females liking one male and vice versa.</description>
+</category>
+<category id="252" parentid="313" hentai="false" weight="200">
+<name>Angst</name>
+<description>A feeling of general discomfort and uneasiness is present due to either trivial or more serious reasons, often accompanied by depression.&#13;
+&#13;
+Warning: may contain copious amounts of brooding and sighing.</description>
+</category>
+<category id="88" parentid="83" hentai="false" weight="100">
+<name>Nudity</name>
+<description>Nudity is the state of wearing no clothing and exposing the bare skin or intimate parts.
+
+Especially gratuitous fanservice shows tend to show their characters frequently without any clothes, though often hiding genitals through the means of additions like steam.</description>
+</category>
+<category id="489" parentid="318" hentai="false" weight="200">
+<name>Dark-skinned Girl</name>
+<description>The anime features a girl with dark skin. A fetish of sorts, since the other protagonists are usually as white-skinned as porcelain dolls.</description>
+</category>
+<category id="488" parentid="175" hentai="false" weight="100">
+<name>Spellcasting</name>
+<description>The magic version of “call your attacks”. The protagonist will explicitly call out the magical incantation for the spells.</description>
+</category>
+<category id="482" parentid="175" hentai="false" weight="100">
+<name>Magic Circles</name>
+<description>A circle used to contain magical energy and/or to provide magical protection. It can be drawn (with chalk etc.) or it can just spontaneously appear as part of the spell/ritual.</description>
+</category>
+<category id="151" parentid="17" hentai="false" weight="100">
+<name>Parody</name>
+<description>Anime that imitate other stories (can be from TV, film, books, historical events, ...) for comic effect by exaggerating the style and changing the content of the original. Also known as spoofs. It can also refer to when whole elements of one work are lifted out of their context and reused.</description>
+</category>
+<category id="18" parentid="4" hentai="false" weight="400">
+<name>Super Power</name>
+<description>Be it an ancient Greek Heracles, a cybernetic muscle-man, or a fourteen year-old girl in a mini-skirted sailor suit. As long as they have super powers, they`re in the show.</description>
+</category>
+<category id="130" parentid="291" hentai="false" weight="600">
+<name>Virtual Reality</name>
+<description>A virtual reality is a place where the character interacts with a computer (or some other device)-simulated environment, be it real or imagined. The condition for a virtual reality to exist is the existence of real world for the character. In some cases, a virtual reality where characters can get harmed physically is depicted.</description>
+</category>
+<category id="198" parentid="313" hentai="false" weight="300">
+<name>Romance</name>
+<description>Romance describes a story that deals with love between two or more characters typically also having an optimistic ending. Romance is also a difficulty encountered when creating a harem.</description>
+</category>
+<category id="127" parentid="11" hentai="false" weight="400">
+<name>Alternative Present</name>
+<description>Anime that fit in the alternative present category usually have technology and society that is very similar to ours, but with differences in both, history and culture, which sometimes are blatantly obvious, but sometimes harder to place; this one can at times be very subjective.</description>
+</category>
+<category id="15" parentid="313" hentai="false" weight="200">
+<name>Fantasy</name>
+<description>Imaginative or fanciful work, especially one dealing with supernatural elements and themes.</description>
+</category>
+<category id="173" parentid="4" hentai="false" weight="100">
+<name>Swordplay</name>
+<description>The act or art of using a sword or similar weapon skillfully.</description>
+</category>
+<category id="175" parentid="15" hentai="false" weight="100">
+<name>Magic</name>
+<description>In a traditional Fantasy anime with medieval setting, the lack of technology is "compensated" by the introduction of the supernatural, i.e. spell-casting, magic wands, and magic circles. &#13;
+&#13;
+In another setting long-lost technology may be so advanced that it is mistaken for magic (Arthur C. Clarke: "Any sufficiently advanced technology is indistinguishable from magic"). See also related tag: science and magic coexist.</description>
+</category>
+<category id="306" parentid="313" hentai="false" weight="200">
+<name>Adventure</name>
+<description>Adventures are exciting stories, with new experiences or exotic locales. Adventures are designed to provide an action-filled, energetic experience for the viewer. Rather than the predominant emphasis on violence and fighting that is found in pure action anime, however, the viewer of adventures can live vicariously through the travels, conquests, explorations, creation of empires, struggles and situations that confront the main characters, actual historical figures or protagonists. Under the category of adventures, we can include traditional swashbucklers, serialized films, and historical spectacles, searches or expeditions for lost continents, "jungle" and "desert" epics, treasure hunts and quests, disaster films, and heroic journeys or searches for the unknown. Adventure films are often set in an historical period, and may include adapted stories of historical or literary adventure heroes, kings, battles, rebellion, or piracy.</description>
+</category>
+<category id="84" parentid="83" hentai="false" weight="100">
+<name>Violence</name>
+<description>Physical force against self or other, compelling action against one`s will on pain of being hurt.</description>
+</category>
+<category id="22" parentid="289" hentai="false" weight="100">
+<name>Asia</name>
+<description>Asia is the world`s largest and most populous continent.</description>
+</category>
+<category id="23" parentid="22" hentai="false" weight="100">
+<name>Japan</name>
+<description>Last stronghold for humanity, if Tokyo falls, it`s all over. Tokyo Tower will undoubtedly fall anyway.</description>
+</category>
+<category id="233" parentid="216" hentai="false" weight="300">
+<name>Plot Continuity</name>
+<description>Consistency of the characteristics of persons, plot, objects, places and events seen by the viewer.&#13;
+&#13;
+A single linear focused plot is highly continuous.&#13;
+&#13;
+A truly random plot is highly discontinuous.</description>
+</category>
+<category id="275" parentid="268" hentai="false" weight="600">
+<name>New</name>
+<description>Not based on anything, the story is a new work, usually made up by the people involved in creating the anime. Generally if an original work (原作) credit is given, it will be to the studio, or director, or other members of the production team.</description>
+</category>
+<category id="278" parentid="198" hentai="false" weight="100">
+<name>Shoujo Ai</name>
+<description>Shoujo Ai means girls love, and as such it explores what happens when two girls (or women) fall in love. This is not to be mistaken for Yuri which is (or, at least, how this term is often used by the western audience) a hentai genre. This is not. Meaning no graphical sex.</description>
+</category>
+<category id="289" parentid="7" hentai="false" weight="100">
+<name>Earth</name>
+<description>The Earth is the third planet from the Sun. It is a ball of hot mud, but on the surface it`s cold enough, so most of us live on it (or are supposed to). To its inhabitants, our planet is their home, so, as a species, we cherish it to the point many cultures even to this day deify it. The Earth is the main setting of most fiction, but many titles are set in other places, such as unrelated fantasy worlds, and in a considerable number of fictional titles the Earth is actually destroyed by invaders.</description>
+</category>
+<category id="291" parentid="7" hentai="false" weight="600">
+<name>Fantasy World</name>
+<description>A fantasy world is a type of imaginary world, part of a fictional universe. Typical worlds involve, but are not limited to magic or magical abilities and a medieval theme. Some examples include: a parallel world tenuously connected to Earth via magical portals or items; a fictional Earth-like planet in the remote past or future; or an entirely independent world set in another universe. Many fantasy worlds draw heavily on real world history, geography and sociology, and also on folklore.</description>
+</category>
+<category id="4" parentid="313" hentai="false" weight="200">
+<name>Action</name>
+<description>Action anime usually involve a fairly straightforward story of good guys versus bad guys, where most disputes are resolved by using physical force. It often contains a lot of shooting, explosions and fighting. </description>
+</category>
+<category id="79" parentid="3" hentai="false" weight="600">
+<name>Seinen</name>
+<description>In the context of manga and associated media, the word seinen refers to a male audience roughly between the ages of 15 and 44. In Japanese, the word means simply "young man", and has no anime/manga-related connotations at all. It does not comprise a style or a genre per se, but rather indicates the publisher`s intended target demographic.</description>
+</category>
+<category id="459" parentid="340" hentai="false" weight="200">
+<name>Reverse Trap</name>
+<description>A girl who dresses in male clothing.</description>
+</category>
+</categories>
+<resources>
+<resource type="1">
+<externalentity>
+<identifier>3770</identifier>
+</externalentity>
+<externalentity>
+<identifier>3532</identifier>
+</externalentity>
+<externalentity>
+<identifier>605</identifier>
+</externalentity>
+</resource>
+<resource type="2">
+<externalentity>
+<identifier>1487</identifier>
+</externalentity>
+<externalentity>
+<identifier>48</identifier>
+</externalentity>
+<externalentity>
+<identifier>1143</identifier>
+</externalentity>
+</resource>
+<resource type="3">
+<externalentity>
+<identifier>862</identifier>
+<identifier>hjhhmj</identifier>
+</externalentity>
+</resource>
+<resource type="4">
+<externalentity>
+<url>http://www.beetrain.co.jp/contents/works/sign/</url>
+</externalentity>
+</resource>
+<resource type="6">
+<externalentity>
+<identifier>.hack//Sign</identifier>
+</externalentity>
+</resource>
+<resource type="7">
+<externalentity>
+<identifier>.hack//SIGN</identifier>
+</externalentity>
+</resource>
+<resource type="9">
+<externalentity>
+<identifier>237599</identifier>
+</externalentity>
+</resource>
+</resources>
+<tags>
+<tag id="1326" approval="6" spoiler="false" localspoiler="false" globalspoiler="false" update="2008-07-02">
+<name>great OP and ED</name>
+<count>143</count>
+<description>The OP (opening) and ED (ending) sequences contain a strong sense of effort toward impressively utilizing visuals, instrumentals and vocals to captivate an audience.
+This has nothing to do with any karaoke effects and styling individual subbers may have added.</description>
+</tag>
+<tag id="381" approval="5" spoiler="false" localspoiler="false" globalspoiler="false" update="2011-04-10">
+<name>great character development</name>
+<count>81</count>
+<description>A great deal of focus is given to the characters as they develop and mature their personalities and who they are or may yet to become. The methods are strong and persuasive, quite possibly with the intent of moulding a certain view or feel of the characters by those watching.
+These developments commonly focus on how characters act when alone, how any single character responds towards certain other individuals or how any single individual or group of individuals act and react towards any other individual or group of individuals.</description>
+</tag>
+<tag id="3725" approval="7" spoiler="false" localspoiler="false" globalspoiler="false" update="2011-04-18">
+<name>dialogue driven</name>
+<count>76</count>
+<description>The plot of the anime is advanced by hopefully interesting and intriguing dialogues. Action is clearly of very much lower priority.</description>
+</tag>
+<tag id="2899" approval="13" spoiler="false" localspoiler="false" globalspoiler="false" update="2013-03-07">
+<name>preview before ED</name>
+<count>16</count>
+<description>Unlike most productions, where the next episode preview rolls *after* the ending with the production credits, this title does the reverse: preview the next episode *first*, then enjoy the ED (or skip it if you prefer, without missing the juicy preview details).</description>
+</tag>
+<tag id="655" approval="9" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-01-20">
+<name>amnesia</name>
+<count>153</count>
+<description>Loss of memory.
+Used as story element, gradually revealing a protagonist`s past that had been forgotten. Usually revealing a terribly gruesome happening.</description>
+</tag>
+<tag id="1307" approval="6" spoiler="true" localspoiler="true" globalspoiler="true" update="2008-06-30">
+<name>inconclusive</name>
+<count>106</count>
+<description>The anime series or movie ends as it begins, nothing significant changed. Or the outcome is so vague and open-ended that a continuation would be possible. At times this is a sign for a continuation in the next season, or that the series was dropped and never continued. In any case there is always a sense of dissatisfaction for the viewer.</description>
+</tag>
+<tag id="2123" approval="7" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-06-22">
+<name>awesome storyline</name>
+<count>115</count>
+<description>The storyline is intriguingly crafted: The suspense will keep you at the edge of your seat, the plot twists will very much surprise, the character development is both convincing, and entertaining.
+This is how anime should be!</description>
+</tag>
+<tag id="682" approval="22" spoiler="false" localspoiler="false" globalspoiler="false" update="2008-06-06">
+<name>great soundtrack</name>
+<count>332</count>
+<description>The anime soundtrack is noteworthy.</description>
+</tag>
+<tag id="2206" approval="6" spoiler="true" localspoiler="true" globalspoiler="true" update="2009-10-14">
+<name>open ended</name>
+<count>118</count>
+<description>The ending of this anime is left to the viewers imagination. There are no clear hints at a definite story outcome, just several possibilities are presented.</description>
+</tag>
+<tag id="3999" approval="7" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-10-12">
+<name>seeking protagonist</name>
+<count>45</count>
+<description>The main character has a main objective that is referenced to through the whole series; he is in search of something, or someone
+Should it be treasure, friends, money, power or all of the above nothing will stop our lead character in his quest to find his passion</description>
+</tag>
+<tag id="3969" approval="7" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-05-25">
+<name>levelling</name>
+<count>2</count>
+</tag>
+<tag id="5792" approval="6" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-10-21">
+<name>avatar</name>
+<count>8</count>
+<description>An avatar is a computer user`s representation of himself/herself or alter ego, whether in the form of a three-dimensional model used in computer games, a two-dimensional icon (picture) or a one-dimensional username used on Internet forums and other communities, or a text construct found on early systems such as MUDs. 
+It is an object representing the user. The term "avatar" can also refer to the personality connected with the screen name, or handle, of an Internet user. 
+This sense of the word was coined by Neal Stephenson in 1992`s Snow Crash who co-opted it from the Sanskrit word avatāra which is a concept similar to that of incarnation.</description>
+</tag>
+<tag id="4552" approval="23" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-10-07">
+<name>RPG elements</name>
+<count>37</count>
+<description>The anime shows elements of a `R`ole `P`laying `G`ame, either as part of a parody or because the anime is actually based on an RPG.
+Typical elements: When collecting items, beating opponents, or levelling up a distinct (often childishly sounding) sound cue is played. A HUD (`H`eads `U`p `D`isplay) may also be presenting in combat, showing vital player and "enemy" statistics.</description>
+</tag>
+<tag id="7064" approval="4" spoiler="false" localspoiler="false" globalspoiler="false" update="2013-01-21">
+<name>insanely powerful computer virus</name>
+<count>2</count>
+<description>The anime features an unrealistically powerful computer virus: 
+It affects every existing operating system (Windows, Linux, Mac OS, everyone gets infected), any kind of electronic device (no matter whether you use a computer, a cellphone or an electronic toaster, it gets infected), wreaks extreme havoc (shutting down water, electricity and gas, makes nuclear power plants blow up, sends planes crashing, etc.) and is generally the harbinger of the apocalypse of the modern world (and, even more so, in a future world, where even more things are computerized and, most conveniently, connected to the Internet).</description>
+</tag>
+<tag id="426" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-10-06">
+<name>tsundere</name>
+<count>370</count>
+<description>A character type (usually female), who is often easily agitated or combative, but other times is quite kind and caring, especially in situations involving a person they are (knowingly or unknowingly) attracted to.</description>
+</tag>
+<tag id="254" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-03-15">
+<name>mystery</name>
+<count>118</count>
+<description>The mystery film is a sub-genre of the more general category of crime film. It focuses on the efforts of the detective, private investigator or amateur sleuth to solve the mysterious circumstances of a crime by means of clues, investigation, and clever deduction. (Source: Wikipedia)</description>
+</tag>
+<tag id="788" approval="3" spoiler="true" localspoiler="true" globalspoiler="false" update="2010-04-10">
+<name>child abuse</name>
+<count>18</count>
+<description>Story depicts child abuse, which is a very complex and dangerous set of problems that include child neglect and the physical, emotional, and sexual abuse of children.</description>
+</tag>
+<tag id="4098" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-02-23">
+<name>psychological manipulation</name>
+<count>35</count>
+<description>Psychological manipulation is a type of social influence that aims to change the perception or behaviour of others through underhanded, deceptive, or even abusive tactics. By advancing the interests of the manipulator, often at the other`s expense, such methods could be considered exploitative, abusive, devious, and deceptive. 
+Social influence is not necessarily negative. For example, doctors can try to persuade patients to change unhealthy habits. Social influence is generally perceived to be harmless when it respects the right of the influenced to accept or reject it, and is not unduly coercive. Depending on the context and motivations, social influence may constitute underhanded manipulation.
+(Source: Wikipedia)</description>
+</tag>
+<tag id="6609" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2011-07-06">
+<name>teleportation</name>
+<count>18</count>
+<description>Teleportation is a term that refers to a number of theories and notions concerning the transfer of matter from one point to another without traversing the physical space between them, similar to the concept apport, an earlier word used in the context of spiritualism.
+(Source: Wikipedia)</description>
+</tag>
+<tag id="1994" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2011-04-30">
+<name>immature behaviour</name>
+<count>18</count>
+<description>Even though the characters are old enough to be treated as adults (or close enough, to expect them to behave as such), they show quite childish and immature behaviour.
+This may to a certain degree be seen as a comedy element with a degree of "endearment", but especially when they are parental figures it can become disturbing, when adult responsibilities are ignored.</description>
+</tag>
+<tag id="2083" approval="3" spoiler="true" localspoiler="true" globalspoiler="false" update="2013-03-15">
+<name>dysfunctional family</name>
+<count>14</count>
+<description>When the nuclear family (Mother, Father and child(ren)) goes boom due to conflicts between family members, sometimes resulting in the breakup of the family or even violence.</description>
+</tag>
+<tag id="5622" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-04-21">
+<name>ensemble cast</name>
+<count>19</count>
+<description>The plot focuses on a group of characters rather than a single one.</description>
+</tag>
+<tag id="5105" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-06-09">
+<name>regeneration from death</name>
+<count>18</count>
+</tag>
+<tag id="3841" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2013-02-27">
+<name>suffering protagonist</name>
+<count>41</count>
+<description>The protagonist suffers a lot in the anime and does not seem to be able to overcome it.</description>
+</tag>
+<tag id="6165" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2013-02-26">
+<name>jealousy</name>
+<count>34</count>
+<description>A character is jealous of another character either due to love, or power, or wealth.
+Can be an important element to the story.</description>
+</tag>
+<tag id="6338" approval="3" spoiler="true" localspoiler="true" globalspoiler="false" update="2010-12-25">
+<name>pseudo tentacle rape scene</name>
+<count>25</count>
+<description>If this was a hentai anime she would have even more fun!</description>
+</tag>
+<tag id="7106" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-07-14">
+<name>disguised social commentary</name>
+<count>3</count>
+</tag>
+<tag id="1271" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-07-18">
+<name>unrequited love</name>
+<count>71</count>
+<description>At least one character has a romantic interest in another one, but the feelings are not returned. 
+This is the cornerstone of all love triangles or love polygons.</description>
+</tag>
+<tag id="4970" approval="3" spoiler="true" localspoiler="true" globalspoiler="false" update="2009-05-06">
+<name>implanted memories</name>
+<count>7</count>
+<description>The protagonist finds out that his/her cherished memories are actually fake and have been implanted.</description>
+</tag>
+<tag id="2660" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2011-04-11">
+<name>serious business</name>
+<count>23</count>
+<description>For some people it is just a card- or board game. For others it is not just a matter of life and death — it is much more important than that.
+Serious business basically describes a situation, when a show revolves around an activity where a sizeable portion of the in-series population takes it far more seriously than it should. If something`s popularity rivals that of Elvis, or if there are mainstream schools devoted to it instead of teaching reading, writing, and arithmetic; it is serious business.</description>
+</tag>
+<tag id="2365" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-04-11">
+<name>teamwork</name>
+<count>41</count>
+<description>A cooperative effort by the members of a group or team to achieve a common goal.</description>
+</tag>
+<tag id="3190" approval="3" spoiler="true" localspoiler="true" globalspoiler="true" update="2012-04-05">
+<name>heroic sacrifice</name>
+<count>55</count>
+<description>"In order to save the many, the few will need to sacrifice their lives..." or so this character may think. 
+In a seemingly hopeless situation, against impossible odds, the character does not choose the path of the coward and run, he or she chooses to bravely face the enemy, fully aware that this will mean death.</description>
+</tag>
+<tag id="3840" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-07-04">
+<name>magic-using protagonist</name>
+<count>43</count>
+<description>One of the characters uses supernatural powers. These characters include magicians, witches, shamen, priests and shrine maidens.
+In action anime, these people typically use spells to battle their enemies, sometimes using a catch-phrase to release their incantations. Magic-using fighters, however, may simply channel their powers through their weapon.</description>
+</tag>
+<tag id="2975" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-06-24">
+<name>flashback</name>
+<count>313</count>
+<description>The characters remember things from their past triggering a flashback. The anime either repeats scenes from previous episodes (danger of too many "fillers"), or actually shows new footage from very old memories.</description>
+</tag>
+<tag id="890" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-05-24">
+<name>timeskip</name>
+<count>111</count>
+<description>The plot features at least one skip or jump in time.
+Example: A skip from the present into the past, or time skips in increments, e.g. every hour there is a timeskip by a day.</description>
+</tag>
+<tag id="6979" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2013-01-14">
+<name>crossover episodes</name>
+<count>2</count>
+</tag>
+<tag id="5807" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-02-09">
+<name>flashbacks everywhere</name>
+<count>10</count>
+<description>The anime is full of flashbacks. Sometimes one or more complete episodes are just one giant flashback. Often the same flashback is repeated over and over again. Such excessive amounts of recycled material clearly are used as "fillers" and cannot be interpreted as some sort of "plot expansion".
+Examples: Bleach or Tenjho Tenge.
+Tag should not be used for sporadic flashbacks.</description>
+</tag>
+<tag id="4537" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2010-03-03">
+<name>breathtaking vistas</name>
+<count>91</count>
+<description>An amazing view of nature, of artificially sculpted landscapes (i.e. gardens), or of a cityscape.</description>
+</tag>
+<tag id="4428" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2009-02-03">
+<name>sense of foreboding</name>
+<count>146</count>
+<description>The anime starts off quietly, everything seems to be fine, but from episode to episode the signs that something ominous is about to happen increase. E.g. a typical mystery setting.</description>
+</tag>
+<tag id="455" approval="3" spoiler="false" localspoiler="false" globalspoiler="false" update="2012-03-22">
+<name>slow-paced</name>
+<count>50</count>
+<description>The story — including its characters and events — develop slowly.
+May contain a weak continuity of plot and/or character development. 
+Or may be a story telling device to increase the "sense of foreboding" in an anime with thriller or horror setting.</description>
+</tag>
+</tags>
+<characters>
+<character id="3547" type="main character in" update="2010-12-12">
+<rating votes="9">4.09</rating>
+<name>Tsukasa</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Tsukasa was initially a cynical loner, and seemingly arrogant to the other players in The World. Tsukasa tended to avoid others as much as possible and didn`t take any enjoyment in leveling up or participating in events. In fact, his sole enjoyment seemed to come from defying the Crimson Knights. As Tsukasa was slowly befriended by Mimiru, Bear, and Subaru, he began to warm up to them, eventually seeking them out, as well as being sought out by Subaru who came to him for aid when she felt lost. By the end of the series, Tsukasa reveals the kind heart he had kept hidden for so long.</description>
+<picture>60665.jpg</picture>
+<seiyuu id="180" picture="66228.jpg">Saiga Mitsuki</seiyuu>
+</character>
+<character id="3661" type="secondary cast in" update="2009-02-23">
+<rating votes="10">5.88</rating>
+<name>Mimiru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Mimiru is a female Heavyblade who appears in .hack//Sign. Her avatar appears as a teenage girl dressed in an armored bikini top, and a short skirt, with large greaves on her legs. Mimiru plays as a "tough-it-out-through-anything" player, who is poor at planning things out and following through on them. She meets Tsukasa and soon becomes one of the few he trusts and he eventually sees her as a friend. She also teams up with Bear, who she refers to as an "old man", and spends considerable time in the series attempting to figure out what Bear`s career is in real life.</description>
+<picture>19519.jpg</picture>
+<seiyuu id="356" picture="17197.jpg">Toyoguchi Megumi</seiyuu>
+</character>
+<character id="8874" type="appears in" update="2010-03-24">
+<rating votes="11">6.45</rating>
+<name>Aura</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>28257.jpg</picture>
+<seiyuu id="227" picture="17046.jpg">Sakamoto Maaya</seiyuu>
+</character>
+<character id="9953" type="secondary cast in" update="2009-06-27">
+<rating votes="4">4.55</rating>
+<name>Bear</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30100.jpg</picture>
+<seiyuu id="242" picture="38156.jpg">Nakata Kazuhiro</seiyuu>
+</character>
+<character id="9954" type="secondary cast in" update="2009-06-27">
+<rating votes="5">6.38</rating>
+<name>Sora</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30101.jpg</picture>
+<seiyuu id="2016" picture="21318.jpg">Yanaka Hiroshi</seiyuu>
+</character>
+<character id="9955" type="secondary cast in" update="2009-06-27">
+<rating votes="6">7.61</rating>
+<name>Crim</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30102.jpg</picture>
+<seiyuu id="233" picture="17051.jpg">Miki Shin`ichirou</seiyuu>
+</character>
+<character id="9956" type="secondary cast in" update="2009-06-27">
+<rating votes="10">5.13</rating>
+<name>Subaru</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30103.jpg</picture>
+<seiyuu id="308" picture="44975.jpg">Nazuka Kaori</seiyuu>
+</character>
+<character id="9957" type="secondary cast in" update="2009-06-27">
+<rating votes="4">7.83</rating>
+<name>BT</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<picture>30104.jpg</picture>
+<seiyuu id="692" picture="18299.jpg">Hiramatsu Akiko</seiyuu>
+</character>
+<character id="15313" type="secondary cast in" update="2010-02-27">
+<rating votes="11">2.56</rating>
+<name>Silver Knight</name>
+<gender>male</gender>
+<charactertype id="1">Character</charactertype>
+<description>Silver Knight is second-in-command of the Crimson Knights. As described by Frank Ellis he possesses a strong sense of justice (becoming overzealous at times), but is extremely naive, leading him to end up as more of a tool to be used by whoever is in control. He is extremely overprotective of Subaru. Silver Knight`s PC is an edited version of the standard Crimson Knight design.
+Later in the series, he tells Mimiru that he is 23 and works in a video store.</description>
+<picture>43718.jpg</picture>
+<seiyuu id="1913" picture="26099.jpg">Chiba Isshin</seiyuu>
+</character>
+<character id="31939" type="appears in" update="2011-05-06">
+<rating votes="2">7.71</rating>
+<name>Shouji An</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Shouji An is the real life player behind Tsukasa. She is actually female. An was raised by her father after the death of her mother, and was physically and mentally abused by him. His abusive behavior also distanced her from her gender: he treated her like a boy, refusing to allow her to use feminine products and basic hygiene products. There are also subtle hints that her father is an alcoholic. After awaking from her coma, Sakuma Ryo, the player behind Bear, becomes her legal guardian and allows her to go to a boarding school. She meets with Mariko, Subaru`s player, and the two begin a relationship.</description>
+<picture>71030.jpg</picture>
+<seiyuu id="180" picture="66228.jpg">Saiga Mitsuki</seiyuu>
+</character>
+<character id="31940" type="appears in" update="2011-05-06">
+<rating votes="1">6.09</rating>
+<name>Misono Mariko</name>
+<gender>female</gender>
+<charactertype id="1">Character</charactertype>
+<description>Misono Mariko is the real life player behind Subaru. She is a paraplegic girl who spends so much time in The World because it is the only place where she can roam freely on her own. At the end of the series, she meets Shouji An, Tsukasa`s player, and the two begin a relationship.</description>
+<picture>71031.jpg</picture>
+<seiyuu id="308" picture="44975.jpg">Nazuka Kaori</seiyuu>
+</character>
+</characters>
+<episodes>
+<episode id="151" update="2011-10-20">
+<epno type="1">1</epno>
+<length>25</length>
+<airdate>2002-04-04</airdate>
+<rating votes="20">6.92</rating>
+<title xml:lang="ja">Role Play</title>
+<title xml:lang="en">Role Play</title>
+<title xml:lang="fr">Jeux de rôle</title>
+<title xml:lang="x-jat">Role Play</title>
+</episode>
+<episode id="253" update="2011-10-20">
+<epno type="1">2</epno>
+<length>25</length>
+<airdate>2002-04-11</airdate>
+<rating votes="14">6.94</rating>
+<title xml:lang="ja">Guardian</title>
+<title xml:lang="en">Guardian</title>
+<title xml:lang="fr">L`ange gardien</title>
+<title xml:lang="x-jat">Guardian</title>
+</episode>
+<episode id="254" update="2011-10-20">
+<epno type="1">3</epno>
+<length>25</length>
+<airdate>2002-04-18</airdate>
+<rating votes="13">4.78</rating>
+<title xml:lang="ja">Folklore</title>
+<title xml:lang="en">Folklore</title>
+<title xml:lang="fr">Folklore</title>
+<title xml:lang="x-jat">Folklore</title>
+</episode>
+<episode id="256" update="2011-10-20">
+<epno type="1">4</epno>
+<length>25</length>
+<airdate>2002-04-25</airdate>
+<rating votes="12">6.14</rating>
+<title xml:lang="ja">Wanted</title>
+<title xml:lang="en">Wanted</title>
+<title xml:lang="fr">Avis de recherche</title>
+<title xml:lang="x-jat">Wanted</title>
+</episode>
+<episode id="268" update="2011-10-20">
+<epno type="1">5</epno>
+<length>25</length>
+<airdate>2002-05-02</airdate>
+<rating votes="13">5.33</rating>
+<title xml:lang="ja">Captured</title>
+<title xml:lang="en">Captured</title>
+<title xml:lang="fr">Capture</title>
+<title xml:lang="x-jat">Captured</title>
+</episode>
+<episode id="509" update="2013-03-18">
+<epno type="1">18</epno>
+<length>25</length>
+<airdate>2002-08-01</airdate>
+<rating votes="11">5.69</rating>
+<title xml:lang="ja">Declaration</title>
+<title xml:lang="en">Declaration</title>
+<title xml:lang="fr">La déclaration</title>
+<title xml:lang="x-jat">Declaration</title>
+</episode>
+<episode id="668" update="2011-10-20">
+<epno type="1">6</epno>
+<length>25</length>
+<airdate>2002-05-09</airdate>
+<rating votes="11">5.27</rating>
+<title xml:lang="ja">Encounter</title>
+<title xml:lang="en">Encounter</title>
+<title xml:lang="fr">La rencontre</title>
+<title xml:lang="x-jat">Encounter</title>
+</episode>
+<episode id="669" update="2011-10-20">
+<epno type="1">7</epno>
+<length>25</length>
+<airdate>2002-05-16</airdate>
+<rating votes="12">5.97</rating>
+<title xml:lang="ja">Reason</title>
+<title xml:lang="en">Reason</title>
+<title xml:lang="fr">Raison</title>
+<title xml:lang="x-jat">Reason</title>
+</episode>
+<episode id="670" update="2011-10-20">
+<epno type="1">8</epno>
+<length>25</length>
+<airdate>2002-05-23</airdate>
+<rating votes="12">3.46</rating>
+<title xml:lang="ja">Promise</title>
+<title xml:lang="en">Promise</title>
+<title xml:lang="fr">La promesse</title>
+<title xml:lang="x-jat">Promise</title>
+</episode>
+<episode id="671" update="2011-10-20">
+<epno type="1">9</epno>
+<length>25</length>
+<airdate>2002-05-30</airdate>
+<rating votes="11">4.29</rating>
+<title xml:lang="ja">Epitaph</title>
+<title xml:lang="en">Epitaph</title>
+<title xml:lang="fr">Épitaphe</title>
+<title xml:lang="x-jat">Epitaph</title>
+</episode>
+<episode id="672" update="2011-10-20">
+<epno type="1">10</epno>
+<length>25</length>
+<airdate>2002-06-06</airdate>
+<rating votes="12">4.45</rating>
+<title xml:lang="ja">Compensation</title>
+<title xml:lang="en">Compensation</title>
+<title xml:lang="fr">La compensation</title>
+<title xml:lang="x-jat">Compensation</title>
+</episode>
+<episode id="673" update="2011-10-20">
+<epno type="1">11</epno>
+<length>25</length>
+<airdate>2002-06-13</airdate>
+<rating votes="11">5.17</rating>
+<title xml:lang="ja">Party</title>
+<title xml:lang="en">Party</title>
+<title xml:lang="fr">Le défi</title>
+<title xml:lang="x-jat">Party</title>
+</episode>
+<episode id="674" update="2011-10-20">
+<epno type="1">12</epno>
+<length>25</length>
+<airdate>2002-06-20</airdate>
+<rating votes="11">6.12</rating>
+<title xml:lang="ja">Entanglement</title>
+<title xml:lang="en">Entanglement</title>
+<title xml:lang="fr">Enchevêtrement</title>
+<title xml:lang="x-jat">Entanglement</title>
+</episode>
+<episode id="675" update="2011-10-20">
+<epno type="1">13</epno>
+<length>25</length>
+<airdate>2002-06-27</airdate>
+<rating votes="10">8.23</rating>
+<title xml:lang="ja">Twilight Eye</title>
+<title xml:lang="en">Twilight Eye</title>
+<title xml:lang="fr">L`œil du crépuscule</title>
+<title xml:lang="x-jat">Twilight Eye</title>
+</episode>
+<episode id="676" update="2011-10-20">
+<epno type="1">14</epno>
+<length>25</length>
+<airdate>2002-07-04</airdate>
+<rating votes="11">6.39</rating>
+<title xml:lang="ja">Castle</title>
+<title xml:lang="en">Castle</title>
+<title xml:lang="fr">Le château</title>
+<title xml:lang="x-jat">Castle</title>
+</episode>
+<episode id="677" recap="true" update="2013-03-18">
+<epno type="1">15</epno>
+<length>25</length>
+<airdate>2002-07-11</airdate>
+<rating votes="8">4.99</rating>
+<title xml:lang="ja">Evidence</title>
+<title xml:lang="en">Evidence</title>
+<title xml:lang="fr">La preuve</title>
+<title xml:lang="x-jat">Evidence</title>
+</episode>
+<episode id="678" update="2013-03-18">
+<epno type="1">16</epno>
+<length>25</length>
+<airdate>2002-07-18</airdate>
+<rating votes="11">4.04</rating>
+<title xml:lang="ja">Depth</title>
+<title xml:lang="en">Depth</title>
+<title xml:lang="fr">Abysse</title>
+<title xml:lang="x-jat">Depth</title>
+</episode>
+<episode id="679" update="2013-03-18">
+<epno type="1">17</epno>
+<length>25</length>
+<airdate>2002-07-25</airdate>
+<rating votes="11">5.34</rating>
+<title xml:lang="ja">Conflict</title>
+<title xml:lang="en">Conflict</title>
+<title xml:lang="fr">Le conflit</title>
+<title xml:lang="x-jat">Conflict</title>
+</episode>
+<episode id="1648" update="2013-03-18">
+<epno type="1">19</epno>
+<length>25</length>
+<airdate>2002-08-08</airdate>
+<rating votes="11">6.83</rating>
+<title xml:lang="ja">Recollection</title>
+<title xml:lang="en">Recollection</title>
+<title xml:lang="fr">Souvenir</title>
+<title xml:lang="x-jat">Recollection</title>
+</episode>
+<episode id="1649" update="2013-03-18">
+<epno type="1">20</epno>
+<length>25</length>
+<airdate>2002-08-15</airdate>
+<rating votes="11">7.98</rating>
+<title xml:lang="ja">Tempest</title>
+<title xml:lang="en">Tempest</title>
+<title xml:lang="fr">Tempête</title>
+<title xml:lang="x-jat">Tempest</title>
+</episode>
+<episode id="2159" update="2013-03-18">
+<epno type="1">22</epno>
+<length>25</length>
+<airdate>2002-08-29</airdate>
+<rating votes="9">7.38</rating>
+<title xml:lang="ja">Phantom</title>
+<title xml:lang="en">Phantom</title>
+<title xml:lang="fr">Le fantôme</title>
+<title xml:lang="x-jat">Phantom</title>
+</episode>
+<episode id="2312" update="2013-03-18">
+<epno type="1">23</epno>
+<length>25</length>
+<airdate>2002-09-05</airdate>
+<rating votes="9">7.55</rating>
+<title xml:lang="ja">The Eve</title>
+<title xml:lang="en">The Eve</title>
+<title xml:lang="fr">La veille</title>
+<title xml:lang="x-jat">The Eve</title>
+</episode>
+<episode id="2313" update="2013-03-21">
+<epno type="1">24</epno>
+<length>25</length>
+<airdate>2002-09-12</airdate>
+<rating votes="9">8.94</rating>
+<title xml:lang="ja">Net Slum</title>
+<title xml:lang="en">Net Slum</title>
+<title xml:lang="fr">Le cyber-sanctuaire</title>
+<title xml:lang="x-jat">Net Slum</title>
+</episode>
+<episode id="2345" update="2013-03-21">
+<epno type="1">25</epno>
+<length>25</length>
+<airdate>2002-09-19</airdate>
+<rating votes="9">9.17</rating>
+<title xml:lang="ja">Catastrophe</title>
+<title xml:lang="en">Catastrophe</title>
+<title xml:lang="fr">Catastrophe</title>
+<title xml:lang="x-jat">Catastrophe</title>
+</episode>
+<episode id="2347" update="2013-03-18">
+<epno type="1">26</epno>
+<length>25</length>
+<airdate>2002-09-26</airdate>
+<rating votes="14">7.84</rating>
+<title xml:lang="ja">Return</title>
+<title xml:lang="en">Return</title>
+<title xml:lang="fr">Le retour</title>
+<title xml:lang="x-jat">Return</title>
+</episode>
+<episode id="3002" update="2013-03-18">
+<epno type="1">21</epno>
+<length>25</length>
+<airdate>2002-08-22</airdate>
+<rating votes="10">6.21</rating>
+<title xml:lang="ja">Despair</title>
+<title xml:lang="en">Despair</title>
+<title xml:lang="fr">Désespoir</title>
+<title xml:lang="x-jat">Despair</title>
+</episode>
+<episode id="7176" update="2013-03-18">
+<epno type="2">S1</epno>
+<length>25</length>
+<airdate>2003-03-28</airdate>
+<rating votes="19">7.28</rating>
+<title xml:lang="ja">Intermezzo</title>
+<title xml:lang="en">Intermezzo</title>
+<title xml:lang="fr">Intermède</title>
+</episode>
+<episode id="11483" update="2010-04-08">
+<epno type="3">C1</epno>
+<length>0</length>
+<title xml:lang="en">Opening</title>
+</episode>
+<episode id="11484" update="2010-04-08">
+<epno type="3">C2</epno>
+<length>0</length>
+<title xml:lang="en">Ending</title>
+</episode>
+<episode id="12820" update="2011-10-20">
+<epno type="2">S2</epno>
+<length>25</length>
+<airdate>2003-10-24</airdate>
+<rating votes="15">8.02</rating>
+<title xml:lang="en">Unison</title>
+<title xml:lang="fr">En chœur</title>
+</episode>
+</episodes>
+</anime>
